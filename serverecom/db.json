@@ -1,0 +1,117 @@
+{
+  "Products": [
+    {
+      "name": "Westernwear",
+      "price": 1500,
+      "size": "XL",
+      "image": "https://img.freepik.com/free-photo/portrait-fashionable-woman_329181-9171.jpg?t=st=1719291711~exp=1719295311~hmac=347a4b8adb0bdf4c5e2aac9d0710f8fde06e248541eaf4c3e6f61e0abc3c5fc7&w=360",
+      "id": "2d89",
+      "quantity": 1
+    },
+    {
+      "name": "Gown",
+      "price": 2500,
+      "size": "XS",
+      "image": "https://img.freepik.com/free-photo/pretty-woman-stylish-dress-happily-posing-orange-background-beautiful-pretty-girl-romantic-clothes-looking-into-camera_197531-18944.jpg?t=st=1719291890~exp=1719295490~hmac=65124c6991abf91ef174961c00df0c016acc707a0b0c495badb124fd7ce2d980&w=360",
+      "id": "8150",
+      "quantity": 1
+    },
+    {
+      "name": "Tshirt",
+      "price": 500,
+      "size": "M",
+      "image": "https://img.freepik.com/free-photo/high-angle-teenage-boy_23-2148478821.jpg?t=st=1719292163~exp=1719295763~hmac=ecbccae32b7360557bfd102a07838bdb460346c85e7d29d4c8f4702d6758ea4a&w=360",
+      "id": "eaae",
+      "quantity": 1
+    },
+    {
+      "name": "Girl-tshirt",
+      "price": 250,
+      "size": "S",
+      "image": "https://img.freepik.com/free-photo/front-view-woman-wearing-mask-chin_23-2148627193.jpg?t=st=1719292400~exp=1719296000~hmac=bfdd8dc91c7ae1689c401282ab030ca0a29b6aa2279b78d52d483bce533228f0&w=360",
+      "id": "9033",
+      "quantity": 1
+    },
+    {
+      "name": "man-shirt",
+      "price": 200,
+      "size": "L",
+      "image": "https://img.freepik.com/free-photo/close-up-portrait-man-shirt-mockup_23-2149260959.jpg?t=st=1719292469~exp=1719296069~hmac=35fda58892821e93c2b755b8f590e6d229d87449624976d59b620130f780e940&w=360",
+      "id": "8f5e",
+      "quantity": 1
+    },
+    {
+      "name": "man-white-tshirt",
+      "price": 3500,
+      "size": "XXL",
+      "image": "https://img.freepik.com/free-photo/man-riding-bicycle-urban-city-holding-hands-handlebar_158595-4619.jpg?t=st=1719292538~exp=1719296138~hmac=76b9d583bccfb8f15797cddfe928404585bbf021081f08cb9c190799c977286b&w=360",
+      "id": "a279",
+      "quantity": 1
+    },
+    {
+      "name": "black-jacket",
+      "price": 2500,
+      "size": "L",
+      "image": "https://img.freepik.com/free-photo/man-black-jacket-standing-park-waiting-someone-high-quality-photo_144627-60188.jpg?t=st=1719292616~exp=1719296216~hmac=e5f94e366787832278581efd5f65f2b816fe4f2fc31adbb7393bc11b276a618d&w=360",
+      "id": "4b49",
+      "quantity": 1
+    },
+    {
+      "name": "yellow-jacket",
+      "price": 5000,
+      "size": "XL",
+      "image": "https://img.freepik.com/free-photo/young-adult-man-yellow-jacket-walks-city-street_1153-5229.jpg?t=st=1719292620~exp=1719296220~hmac=2ba327e04863eca76c11cba97173d267b89ed9b4c5c192c63cab1700c1a23d5d&w=360",
+      "id": "10c4",
+      "quantity": 1
+    },
+    {
+      "name": "woman-blackjacket",
+      "price": 1200,
+      "size": "XS",
+      "image": "https://img.freepik.com/free-photo/young-woman-posing-with-black-glasses-red-background-high-quality-photo_114579-62331.jpg?t=st=1719292762~exp=1719296362~hmac=3da8b73df32cd2ce9243091c2a8ab49706f1528b31a059849ef9e1db7901d9c8&w=360",
+      "id": "3cef",
+      "quantity": 1
+    },
+    {
+      "name": "teen-girl-gray",
+      "price": 7000,
+      "size": "M",
+      "image": "https://img.freepik.com/free-photo/stylish-young-teen-girl-gray_155003-9089.jpg?t=st=1719292846~exp=1719296446~hmac=5746a0b952dc4f15fd57021ba1876aa50c17dd54a348282182abe6b68bc4015a&w=360",
+      "id": "d8a6",
+      "quantity": 1
+    },
+    {
+      "name": "woman-model-jacket",
+      "price": 5300,
+      "size": "XXL",
+      "image": "https://img.freepik.com/free-photo/glamour-stylish-beautiful-young-happy-smiling-woman-model-with-red-lips-casual-cloth-black-beanie_158538-8249.jpg?t=st=1719292890~exp=1719296490~hmac=80197fc6b312045945145ba7cb7c1568b47ee3fdcb1a465781508611b1bec989&w=360",
+      "id": "4e49",
+      "quantity": 1
+    },
+    {
+      "name": "girl-black-leather-jacket",
+      "price": 8500,
+      "size": "S",
+      "image": "https://img.freepik.com/free-photo/cool-girl-black-leather-jacket-gives-seductive-poses_114579-32054.jpg?t=st=1719293016~exp=1719296616~hmac=6ea7b9f7764a741b87ad87422007ee00411e6c34e0c6fc5ef697c18d031dce3e&w=360",
+      "id": "69b7",
+      "quantity": 1
+    },
+    {
+      "name": "Woman-coat",
+      "price": 4500,
+      "size": "ML",
+      "image": "https://img.freepik.com/free-photo/portrait-young-japanese-woman_23-2148870711.jpg?t=st=1719292513~exp=1719296113~hmac=4ceadaaef46c14b0c0b2f90196fa5ff769964a0856b90a030a53c950969a16dc&w=360",
+      "id": "3e80",
+      "quantity": 1
+    },
+    {
+      "name": "woman-red-jacket",
+      "price": 9500,
+      "size": "S",
+      "image": "https://img.freepik.com/free-photo/woman-red-jacket_1303-3719.jpg?t=st=1719293079~exp=1719296679~hmac=3454667914e9bb22f511deca6625ea07f425d559929696a8fa7fd1228485e69b&w=360",
+      "id": "a369",
+      "quantity": 1
+    }
+  ],
+  "Cart": []
+}

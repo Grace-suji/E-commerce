@@ -1,0 +1,27 @@
+.navbar{
+  background-color: black;
+  color: white;
+}
+.link{
+  color:white;
+  text-decoration: none;
+}
+.btn{
+  background-color: blue;
+  color: white;
+  margin-left: 90px;
+}
+.size{
+  border-radius: 50%;
+  padding: 7px;
+  font-size: 12px;
+  font-weight: 700;
+  margin: 20px;
+
+}
+.allsizes{
+  display: flex;
+  flex-direction:row;
+  list-style: none;
+  
+}
